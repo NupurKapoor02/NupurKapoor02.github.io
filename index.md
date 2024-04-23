@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Join us on a journey to build a three-tier application using Docker. This tutorial covers everything from setting up your GitHub Pages blog to creating Docker images for each tier of the application. Dive into the world of containerization as we construct the presentation tier (front end), application tier (back end), and data tier (database). Follow along with detailed steps, screenshots, and explanations as we containerize each tier, orchestrate them with Docker Compose, and upload images to Dockerhub for easy sharing. Whether you're new to Docker or looking to enhance your skills, this tutorial provides a comprehensive guide to building scalable, portable applications.
