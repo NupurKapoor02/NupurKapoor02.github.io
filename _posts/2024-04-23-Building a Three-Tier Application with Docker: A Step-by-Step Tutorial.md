@@ -7,7 +7,13 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ---
 
-### Step 1:
+### Step 1: Creating Directories and Checking Docker Status
+
+### Step 2: Frontend Setup
+
+### Step 3: Backend Setup
+
+### Step 4: Final Integration
 
 #### Some T-SQL Code
 
