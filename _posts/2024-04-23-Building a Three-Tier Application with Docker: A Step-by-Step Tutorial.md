@@ -16,6 +16,8 @@ website/
 ```
 Ensure that Docker is installed and running on your system. Make sure it's up to date to avoid any compatibility issues.
 
+![DockerDesktopDisplay](/dir.jpeg)
+
 ### Step 2: Frontend Setup
 
 Now, let's delve into setting up a frontend application using React and Docker. You'll need to incorporate your own React application into this directory structure and to create the conatiner of the react app, you need to create a Dockerfile in the frontend folder.:
@@ -76,6 +78,8 @@ docker build -t backend .
 ```
 
 This will generate an image named backend for your backend. If you've reached this point, great work! Now, we'll proceed to integrate these images.
+
+![DockerDesktopDisplay](/imag.jpeg)
 
 ### Step 4: Final Integration
 
@@ -141,6 +145,8 @@ Once you execute the command you will be able to see the running containers in t
 Here's how you can view the output for each service in your Docker Compose setup:
 
 ### Step 6: Accessing the website
+
+![DockerDesktopDisplay](/web.jpeg)
 
 Frontend Service (frontend):
 To access the frontend, open a web browser and go to http://localhost:3000. This URL matches the port mapping specified in your docker-compose.yml file for the frontend service.
