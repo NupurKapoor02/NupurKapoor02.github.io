@@ -22,7 +22,7 @@ Now, let's delve into setting up a frontend application using React and Docker. 
 ```tsql
 frontend/
 │
-├── fronyend code
+├── frontend code
 └── Dockerfile
 ```
 Inside the Dockerfile within the frontend folder, include the following code:
