@@ -157,7 +157,7 @@ Your backend is accessible at http://localhost:3001.
 MongoDB Service (mongodb):
 Typically, you won't directly view the MongoDB service output in a web browser. Instead, interact with the MongoDB database using tools like a MongoDB client or command-line tools such as mongo.
 
-### CONCLUSION
+### Conclusion
 
 
 In conclusion, we have successfully set up a robust three-tier application using Docker, incorporating a frontend built with React, a backend powered by Node.js, and a MongoDB database. By leveraging Docker and docker-compose, we've streamlined the deployment process, ensuring consistency and portability across different environments. Accessing our website is now as simple as navigating to the designated URLs for the frontend and backend services. This approach not only enhances efficiency in development and deployment but also lays a solid foundation for scaling and managing our application effectively in the future. With the power of containerization and orchestration at our disposal, we're well-equipped to tackle the challenges of modern web development with confidence.
