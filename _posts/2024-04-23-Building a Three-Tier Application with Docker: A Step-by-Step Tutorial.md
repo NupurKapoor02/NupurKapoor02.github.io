@@ -20,7 +20,7 @@ Ensure that Docker is installed and running on your system. Make sure it's up to
 
 ### Step 2: Frontend Setup
 
-Now, let's delve into setting up a frontend application using React and Docker. You'll need to incorporate your own React application into this directory structure and to create the conatiner of the react app, you need to create a Dockerfile in the frontend folder.:
+Now, let's delve into setting up a frontend application using React and Docker. You'll need to incorporate your own React application into this directory structure and to create the container of the react app, you need to create a Dockerfile in the frontend folder.
 ```tsql
 frontend/
 │
@@ -46,7 +46,7 @@ Once you've completed this, you can create the image for your React app by execu
 docker build -t frontend .
 ```
 
-This will generate an image named my-react-app for your frontend. You can view this image in Docker Desktop or by executing the following command:
+This will generate an image named frontend for your frontend. You can view this image in Docker Desktop or by executing the following command:
 ```powershell
 docker images ls
 ```
