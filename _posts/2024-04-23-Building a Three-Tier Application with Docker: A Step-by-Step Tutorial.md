@@ -9,6 +9,10 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### Step 1: Creating Directories and Checking Docker Status
 
+Begin by creating two folders in the main directory: frontend and backend.
+
+Ensure that Docker is installed and running on your system. Make sure it's up to date to avoid any compatibility issues.
+
 ### Step 2: Frontend Setup
 
 ### Step 3: Backend Setup
